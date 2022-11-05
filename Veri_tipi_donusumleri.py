@@ -4,7 +4,7 @@
 #print(a+b)
 
 # Farklı veri tiplerine bakalım:type()
-x=1 #"nteger
+x=1 #"integer
 y=1.2 # float
 ad="Muhsin" #string
 sinav_basarili_Mi= True #boolean
